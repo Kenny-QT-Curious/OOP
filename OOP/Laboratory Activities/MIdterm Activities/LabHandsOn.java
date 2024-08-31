@@ -1,9 +1,11 @@
 /*
+Java 1.0.0
 
 Name: Christian Kenneth F. Gonzales
 Year & Section: BSIT 2A
-Laboratory Activity #: ?????
+Laboratory Activity #: 1
 Date finished: 08/28/24
+
 
 Instruction:
 *Modify the program, by adding additional input validation.
